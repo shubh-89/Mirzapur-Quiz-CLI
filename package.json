@@ -1,7 +1,7 @@
 {
-  "name": "firequiz",
+  "name": "Mirzapur-Quiz-CLI",
   "version": "0.0.4",
-  "description": "Who wants to be a JavaScript millionaire?",
+  "description": "A Fun CLI Quiz based on Mirzapur using JavaScript.",
   "type": "module",
   "main": "index.js",
   "scripts": {
